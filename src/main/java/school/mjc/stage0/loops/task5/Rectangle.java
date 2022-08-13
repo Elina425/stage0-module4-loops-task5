@@ -5,7 +5,7 @@ public class Rectangle {
     for(int i=0; i<length; i++){
     System.out.println(" ");
     for(int y=0; y<height; y++){
-        System.out.print("8 ");
+        System.out.print("8");
     }
 }
     }

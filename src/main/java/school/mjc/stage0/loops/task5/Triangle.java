@@ -5,7 +5,7 @@ public class Triangle {
             for(int y =0; y<cathetusLength; y++){
                 System.out.println(" ");
                 for(int x =0; x<y; x++){
-                    System.out.print("8 ");
+                    System.out.print("8");
                 }
             }
     }
